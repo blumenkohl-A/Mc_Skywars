@@ -1,0 +1,11 @@
+/home/blumenkohl/Mc_Skywars/src/main/java/de/skywars/SkyWarsPlugin.java
+/home/blumenkohl/Mc_Skywars/src/main/java/de/skywars/command/SkyWarsCommand.java
+/home/blumenkohl/Mc_Skywars/src/main/java/de/skywars/game/GameManager.java
+/home/blumenkohl/Mc_Skywars/src/main/java/de/skywars/game/GameState.java
+/home/blumenkohl/Mc_Skywars/src/main/java/de/skywars/island/IslandManager.java
+/home/blumenkohl/Mc_Skywars/src/main/java/de/skywars/kit/KitManager.java
+/home/blumenkohl/Mc_Skywars/src/main/java/de/skywars/listener/GeneralProtectionListener.java
+/home/blumenkohl/Mc_Skywars/src/main/java/de/skywars/listener/PlayerDeathListener.java
+/home/blumenkohl/Mc_Skywars/src/main/java/de/skywars/listener/PlayerJoinListener.java
+/home/blumenkohl/Mc_Skywars/src/main/java/de/skywars/team/SkyTeam.java
+/home/blumenkohl/Mc_Skywars/src/main/java/de/skywars/team/TeamManager.java

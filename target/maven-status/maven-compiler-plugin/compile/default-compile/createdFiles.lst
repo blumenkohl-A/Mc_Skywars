@@ -1,0 +1,13 @@
+de/skywars/game/GameManager.class
+de/skywars/kit/KitManager.class
+de/skywars/game/GameManager$1.class
+de/skywars/game/GameState.class
+de/skywars/listener/PlayerDeathListener.class
+de/skywars/team/SkyTeam.class
+de/skywars/island/IslandManager.class
+de/skywars/team/TeamManager.class
+de/skywars/listener/GeneralProtectionListener.class
+de/skywars/listener/PlayerJoinListener.class
+de/skywars/kit/KitManager$1.class
+de/skywars/SkyWarsPlugin.class
+de/skywars/command/SkyWarsCommand.class

@@ -1,0 +1,28 @@
+name: SkyWars
+version: '1.0.0'
+main: de.skywars.SkyWarsPlugin
+api-version: '1.21'
+description: Robust Skywars Plugin for Paper 1.21.x
+authors: [SkyWarsTeam]
+
+commands:
+  skywars:
+    description: Main command
+    aliases: [sw, skyw]
+  setlobby:
+    description: Shortcut for /sw setlobby
+    permission: skywars.admin
+  setisland:
+    description: Shortcut for /sw setisland
+    permission: skywars.admin
+  swstart:
+    description: Shortcut for /sw start
+    permission: skywars.admin
+
+permissions:
+  skywars.admin:
+    description: Admin rights
+    default: op
+  skywars.use:
+    description: Basic use
+    default: true
